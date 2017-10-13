@@ -1,19 +1,8 @@
 #header{
-  font-size: 30px;
+  font-size: 25px;
   font-family: monospace;
-  text-align: center;
+  text-align:center;
   background-color: grey;
   height: 70px;
   background: none;
-}
-#header ul li{
-  display: inline-block;
-  height: 100%;
-  padding-right: 10%;
-  text-decoration: none;
-}
-#header ul li a{
-    text-align: center;
-    line-height: 70px;
-    text-decoration: none;
 }
