@@ -1,24 +1,13 @@
-Portfolio
+### Murungi's Portfolio
 
 This is a brief Portfolio. Read it and get to know about me and the projects i have done
 
-#### By **{List of contributors}**
-Contributors are:
-Murungi
-David
-Newton
+#### List of contributors
+Kirima Murungi.
 
 ## Description
 
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
-
-## Setup/Installation Requirements
-
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
+This is a portfolio of my work and a little bit about myself in a nut shell. My educational background, a few things that i like and what i can do.
 
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 
@@ -62,4 +51,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Copyright (c) {2017} 
+Copyright (c) {2017}
