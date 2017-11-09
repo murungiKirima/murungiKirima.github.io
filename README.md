@@ -9,23 +9,23 @@ Kirima Murungi.
 
 This is a portfolio of my work and a little bit about myself in a nut shell. My educational background, a few things that i like and what i can do.
 
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 
 ## Known Bugs
 
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+The website project icons might look a bit different on different devices.
 
 ## Technologies Used
 
 The Technologies used to make this application include;
 Bootstrap
 css
-atom
-ubuntu terminal
+html
+bootstrap
+
 
 ## Support and contact details
 
-The application is bug free so far but if you may run into any problems please feel free to contact me on via my email; murungikirima@gmail.com with all your queries and i will be sure to get back to you within the shortest time.
+The application is almost bug free so far but if you may run into any problems please feel free to contact me on via my email; murungikirima@gmail.com with all your queries and i will be sure to get back to you within the shortest time.
 
 ### License
 
